@@ -359,6 +359,7 @@
     display: flex;
     justify-content: center;
     gap: 23px;
+    margin-bottom: 20px;
   }
   &__scn {
     text-decoration: none;
@@ -376,6 +377,9 @@
     &:hover {
       color: $White;
     }
+  }
+  &__credits{
+      color:$Dark-desaturated-cyan;
   }
 }
 

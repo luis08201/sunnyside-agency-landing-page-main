@@ -474,6 +474,7 @@
       -ms-flex-pack: center;
           justify-content: center;
   gap: 23px;
+  margin-bottom: 20px;
 }
 
 .footer__scn {
@@ -497,6 +498,10 @@
 
 .footer__link:hover {
   color: white;
+}
+
+.footer__credits {
+  color: #25564b;
 }
 
 @media screen and (max-width: 900px) {
